@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<style>
+  <!-- preference -->
+  <width>635</width>
+  <height>383</height>
+  <rotation>90</rotation>
+
+  <!-- images -->
+  <img id="user_twitter_icon" 
+       width="128" 
+       height="128" 
+       x="15"
+       y="15"
+       rotation="0"/>
+  
+  <img id="qr"
+       width="128" 
+       height="128" 
+       x="20"
+       y="220"
+       rotation="0"/>
+
+  <img id="tw_icon"
+       width="25" 
+       height="25" 
+       x="170"
+       y="70"
+       rotation="0"/>
+  
+  <img id="web_icon"
+         width="25" 
+         height="25" 
+         x="170"
+         y="132"
+         rotation="0"/>
+
+  <img id="loca_icon"
+         width="25" 
+         height="25" 
+         x="170"
+         y="100"
+         rotation="0"/>
+
+  <!-- words -->
+  <string id="description"
+         x="170"
+         y="230"
+         width="400"
+         height="70"
+         fontsize="20">
+  </string>
+
+  
+  <string id="screen_name"
+       x="170"
+       y="10"
+       fontsize="40">
+  </string>
+
+  <string id="name"
+       x="200"
+       y="55"
+       fontsize="40">
+  </string>
+
+  <string id="url"
+     x="200"
+     y="130"
+     width="380"
+     height="20"     
+     fontsize="20">
+  </string>
+
+  <string id="location"
+     x="200"
+     y="105"
+     fontsize="20">
+  </string>
+
+</style>

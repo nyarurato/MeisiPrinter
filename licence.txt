@@ -1,0 +1,13 @@
+Lincense
+
+WPZOOM Developer Icon Set 
+http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
+CC BY-SA 3.0
+
+源真ゴシック 
+http://jikasei.me/font/genshin/
+SIL Open Font License
+
+Python Thermal Printer Library
+https://github.com/luopio/py-thermal-printer
+MIT Lincense
