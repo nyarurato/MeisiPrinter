@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<style>
+  <!-- preference -->
+  <width>383</width>
+  <height>268</height>
+  <rotation>0</rotation>
+
+  <!-- images -->
+  <img id="user_twitter_icon" 
+       width="128" 
+       height="128" 
+       x="15"
+       y="70"
+       rotation="0"/>
+  
+  <img id="tw_icon"
+       width="30" 
+       height="30" 
+       x="150"
+       y="70"
+       rotation="0"/>
+  
+  <!-- words -->
+
+  
+  <string id="screen_name"
+       x="150"
+       y="100"
+       fontsize="25">
+  </string>
+
+  <string id="name"
+       x="150"
+       y="155"
+       fontsize="25">
+  </string>
+
+ 
+</style>
